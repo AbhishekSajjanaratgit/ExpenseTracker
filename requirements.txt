@@ -1,0 +1,2 @@
+# No external dependencies — this project only uses the Python standard library
+# (argparse, sqlite3, csv, datetime, os, sys).
